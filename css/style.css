@@ -19,17 +19,19 @@ body {
 
 .masthead-intro {
     margin-bottom: 0.1em;
-    font-size: 2em;
-    color: #ffffff;
+    font-weight: bold;
+    font-size: 3.5em;
+    letter-spacing: 0.04em;
+    color: #28aaf5;
 }
 
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
     font-size: 6em;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #12a0f3;
 }
 
 .details {
